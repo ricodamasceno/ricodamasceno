@@ -3,7 +3,8 @@
 - :computer: Atualmente estou estudando com objetivo de migração para carreira de Data Science.
 - 👀 Meu interesse é ingressar em Data Science, Análise de Dados ou Engenharia de Dados.
 - 🌱 Estudando Data Science, SQL e Machine Learning.
-
+  ##
+  
 <div align="center">
   <a href="https://github.com/ricodamasceno">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricodamasceno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
