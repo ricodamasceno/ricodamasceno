@@ -1,8 +1,8 @@
-### Olá! Eu sou o Ricardo Damasceno! 👋
+### Olá! Sou Ricardo Damasceno! 👋
 
-- :computer: Atualmente estou estudando com objetivo de migração para carreira de Data Science.
+- :computer: Atualmente estou me especializando em Data Science, com objetivo de migração de carreira.
 - 👀 Meu interesse é ingressar em Data Science, Análise de Dados ou Engenharia de Dados.
-- 🌱 Estudando Data Science, SQL e Machine Learning.
+- 🌱 Estudando Data Science, SQL, Machine Learning e Estatística.
   ##
   
 <div align="center">
