@@ -1,8 +1,9 @@
 ### Olá! Sou Ricardo Damasceno! 👋
 
-- :computer: Atualmente estou me especializando em Data Science, com objetivo de migração de carreira.
-- 👀 Meu interesse é ingressar em Data Science, Análise de Dados ou Engenharia de Dados.
-- 🌱 Estudando Data Science, SQL, Machine Learning e Estatística.
+- :computer: Experiência em Business Intelligence & Analytics e Data Science.
+             Tenho conhecimento na linguagem Python para Data Science, até a criação dos modelos de Machine Learning, trabalhando com as principais bibliotecas na área como: Pandas, Scikit-learning, Numpy, Matplotlib e Seaborn. Com a linguagem em SQL, tenho conhecimento em criação de banco de dados, Schema, ETL, manipulação de dados e criação de procedures. Alem do mais, possuo experência com Power Apps, Power Automate e em data visualization utilizando Power BI e linguagem DAX.
+- 👀 Meu interesse Data Science, Análise de Dados, Engenharia de Dados e Business Intelligence.
+- 🌱 Estudando Cloud Azure, AWS e GCP.
   ##
   
 <div align="center">
